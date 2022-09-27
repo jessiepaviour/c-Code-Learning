@@ -21,10 +21,18 @@ var cities = new Dictionary<string, string>(){
 foreach (var kvp in cities)
     Console.WriteLine("Key: {0}, Value: {1}", kvp.Key, kvp.Value);
 
+
+//Editted at home
 Console.WriteLine("Write a number from 1-3: ");
 Convert.ToInt32 number = Console.ReadLine();
-if (number == 1); {
+switch
+    case 1:
     Console.WriteLine(cities["UK"]);
-}    
-
-else if ()
+    break;
+    case 2:
+    Console.WriteLine(cities["USA"]);
+    break;
+    case 3:
+    Console.WriteLine(cities["India"])
+    default:
+    Console.WriteLine("Not an option")
