@@ -2,8 +2,8 @@
 using System.Runtime.InteropServices;
 using System.Security.Cryptography.X509Certificates;
 
-class program
-{
+//class program
+//{
     //0.2
 
     //static int enemyHealth = 100;
@@ -87,4 +87,21 @@ class program
     //        Console.WriteLine("Odd");
     //    }
     //}
+//}
+
+//3.1
+class Game
+{
+    static void Start()
+    {
+        Console.WriteLine("Game Started")
+    }
+}
+
+class program
+{
+    static void Main()
+    {
+        Game.Start();
+    }
 }
