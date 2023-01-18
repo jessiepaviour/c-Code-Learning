@@ -358,45 +358,74 @@ using System.Security.Cryptography.X509Certificates;
 //    }
 //}
 
-namespace pokemon
-{
-    class tinkaton
-    {
-        public void desc()
-        {
-            Console.WriteLine("Tinkaton aims to knock out Corviknight in the sky to by \n" +
-                "knocking rosks with it's hammer. It is also known to steal anything it \n" +
-                "sees.");
-        }
+//namespace pokemon
+//{
+//    class tinkaton
+//    {
+//        public void desc()
+//        {
+//            Console.WriteLine("Tinkaton aims to knock out Corviknight in the sky to by \n" +
+//                "knocking rosks with it's hammer. It is also known to steal anything it \n" +
+//                "sees.");
+//        }
 
-        public void stats()
-        {
+//        public void stats()
+//        {
 
-        }
-    }
+//        }
+//    }
 
-    class cyclizar
-    {
-        public void desc()
-        {
-            Console.WriteLine("Cyclizar has been used as a ride Pokemon since ancient times. \n" +
-                "It is known to sprint over 70 mph while carrying luggage. Cyclizar's spirit \n" +
-                "is lifted when carrying humans.");
-        }
-    }
-}
+//    class cyclizar
+//    {
+//        public void desc()
+//        {
+//            Console.WriteLine("Cyclizar has been used as a ride Pokemon since ancient times. \n" +
+//                "It is known to sprint over 70 mph while carrying luggage. Cyclizar's spirit \n" +
+//                "is lifted when carrying humans.");
+//        }
+//    }
+//}
 
-namespace program
-{
-    class program
-    {
-        static void Main()
-        {
-            pokemon.tinkaton tinkaton = new pokemon.tinkaton();
-            pokemon.cyclizar cyclizar = new pokemon.cyclizar();
+//namespace program
+//{
+//    class program
+//    {
+//        static void Main()
+//        {
+//            pokemon.tinkaton tinkaton = new pokemon.tinkaton();
+//            pokemon.cyclizar cyclizar = new pokemon.cyclizar();
 
-            tinkaton.desc();
-            cyclizar.desc();
-        }
-    }
-}
+//            tinkaton.desc();
+//            cyclizar.desc();
+//        }
+//    }
+//}
+
+//class program
+//{
+//    static void Main()
+//    {
+//        string string1 = "abc";
+//        string string2 = "abcdef";
+
+//        string returnString1 = solution(string1);
+//        string returnString2 = solution(string2);
+
+//        Console.WriteLine(returnString1);
+//        Console.WriteLine(returnString2);
+//    }
+
+//    static string solution(string str)
+//    {
+//        int length = str.Length;
+//        length = length % 2;
+
+//        if (length == 1)
+//        {
+//            str = str + "_";
+//        }
+
+//        return str;
+//    }
+//}
+

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Documents\\Code-Learning\\ProgrammingChallenges_VisualStudios\\ProgrammingChallenges\\ProgrammingChallenges.csproj",
+      "projectUniqueName": "H:\\Documents\\c-Code-Learning\\ProgrammingChallenges_VisualStudios\\ProgrammingChallenges\\ProgrammingChallenges.csproj",
       "projectName": "ProgrammingChallenges",
-      "projectPath": "H:\\Documents\\Code-Learning\\ProgrammingChallenges_VisualStudios\\ProgrammingChallenges\\ProgrammingChallenges.csproj",
+      "projectPath": "H:\\Documents\\c-Code-Learning\\ProgrammingChallenges_VisualStudios\\ProgrammingChallenges\\ProgrammingChallenges.csproj",
       "packagesPath": "C:\\Users\\529863\\.nuget\\packages\\",
-      "outputPath": "H:\\Documents\\Code-Learning\\ProgrammingChallenges_VisualStudios\\ProgrammingChallenges\\obj\\",
+      "outputPath": "H:\\Documents\\c-Code-Learning\\ProgrammingChallenges_VisualStudios\\ProgrammingChallenges\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
